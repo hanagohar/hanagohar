@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZmeDZxczhxcmpwbjF0OGt3cjh5MnN4bWd3cm56YmZ5Zmtkdmt2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0jSaktCLbJw8PCUVt0/giphy.gif" width="250" height="200">
-</p>
-
 # 👋 Hi, I'm Hana Gohar!
 I'm a **Mobile App Developer** passionate about building innovative and user-friendly applications using **Kotlin & Android**.  
 I love solving real-world problems through technology and always eager to learn new skills. 🚀
