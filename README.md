@@ -1,38 +1,39 @@
-# 👋 Hi, I'm Hana Gohar!
-I'm a **Flutter & AI-Powered Mobile App Developer** with a strong background in creating smart, scalable, and user-centered applications.
+# 👋 Hi, I'm Hana Gohar!  
 
-I specialize in building cross-platform mobile apps that go beyond functionality — apps that adapt, learn, and provide real-time value using **Machine Learning** and **Firebase** integration. My goal is to help startups and small businesses bring their ideas to life with clean code, intuitive design, and robust performance.
+I'm a **Data Science & Machine Learning Enthusiast** passionate about turning raw data into meaningful insights and intelligent solutions.  
 
----
-
-## 🚀 Core Skills & Technologies
-
-- 📱 **Cross-Platform Development**: Flutter, Dart, Firebase (Auth, Firestore)
-- 🧠 **AI/ML Integration**: TensorFlow Lite, Scikit-learn, Model Deployment
-- 🛠 **Tools**: Git, GitHub, VS Code, Android Studio
-- 📊 **Data Science**: Pandas, Matplotlib, SMOTE
-- 🧩 **System Design**: UML Diagrams, ER Diagrams
-- 🔧 **Currently Exploring**: Advanced ML Model Customization, Firebase Extensions
+I focus on analyzing datasets, building predictive models, and creating data-driven solutions that solve real-world problems. With a solid foundation in statistics, programming, and ML algorithms, I aim to bridge the gap between data and decision-making.  
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🚀 Core Skills & Technologies  
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hana-gohar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/hanagohar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=internet-explorer)](https://hanagohar.github.io/Personal-Portfolio-/)
+- 📊 **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
+- 🤖 **Machine Learning**: Scikit-learn, XGBoost, Random Forest, SVM, Ensemble Learning  
+- 📈 **Model Evaluation**: Confusion Matrix, ROC Curve, Precision/Recall, Accuracy  
+- 🛠 **Tools & Workflow**: Git, GitHub, Jupyter Notebook, VS Code  
+- 🔍 **Currently Exploring**: Deep Learning, Time Series Forecasting, Model Deployment  
 
 ---
 
-💡 *“For me, it's not just about building an app — it's about building something smart, purposeful, and impactful.”*
+## 🧰 Tech Stack & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hana-gohar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/hanagohar)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=internet-explorer)](https://hanagohar.github.io/Personal-Portfolio-/)  
+
+---
+
+💡 *“For me, it's not just about analyzing data — it's about building smart, impactful solutions that drive real change.”*  
